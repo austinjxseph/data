@@ -13,6 +13,6 @@ An app developed to aid children with Autism Spectrum Disorder on communication 
 * Train - to train the child on the created flash cards using SuperMemo2 algorithm based on the spaced-repetition technique so that they retain their information for a long time.
 
 ### Past contributors
-* Primary Contributor - Achuthan R [LinkedIn](https://www.linkedin.com/in/achuthan-r/))
+* Primary Contributor - Achuthan R [LinkedIn](https://www.linkedin.com/in/achuthan-r/)
 * Austin Joseph - [LinkedIn](https://www.linkedin.com/in/austinjxseph/)
 * Aaditya Parthasarathy - [LinkedIn](https://www.linkedin.com/in/aaditya-parthasarathy/)
