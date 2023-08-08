@@ -1,4 +1,4 @@
-# nuro - Android app for children with ASD
+# Nuro - Android app for children with ASD
 
 An app developed to aid children with Autism Spectrum Disorder on communication by prioritizing visual learning throughout the app. 5 modules were created for this purpose by collaborating with Sankalp - The Learning Centre and Special Needs School, Chennai, India.
 
@@ -12,9 +12,7 @@ An app developed to aid children with Autism Spectrum Disorder on communication 
 
 * Train - to train the child on the created flash cards using SuperMemo2 algorithm based on the spaced-repetition technique so that they retain their information for a long time.
 
-Care was taken while designing the UX/UI for the app such that it offers a clean and modern user experience while also keeping the target
-audience and their qualities in mind.
-
 ### Past contributors
+* Primary Contributor - Achuthan R [LinkedIn](https://www.linkedin.com/in/achuthan-r/))
 * Austin Joseph - [LinkedIn](https://www.linkedin.com/in/austinjxseph/)
 * Aaditya Parthasarathy - [LinkedIn](https://www.linkedin.com/in/aaditya-parthasarathy/)
